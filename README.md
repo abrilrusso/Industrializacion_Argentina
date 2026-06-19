@@ -23,7 +23,7 @@ En los últimos cincuenta años, Argentina experimentó un proceso de desindustr
 ## Hipotesis complementaria
 La reducción del peso de la industria en la economía argentina responde principalmente a un proceso de reprimarización. El crecimiento de sectores primarios (favorecidos por cambios en los precios internacionales y la expansión de actividades como el agro y la energía) habría disminuido la participación relativa de la industria en el PBI, sin implicar necesariamente una caída absoluta de la producción industrial.
 
-# Bases de datos utilizadas 
+# Bases de datos utilizadas 📊
 ## Fuentes
 - Argendata
 
@@ -42,18 +42,18 @@ La reducción del peso de la industria en la economía argentina responde princi
 
 -Índice de desempeño industrial competitivo
 
-## Paises analizados
+## Paises analizados 🌎
 - Argentina
 - Brasil
 - Chile
 - Mexico
 
 # Estructura del repositorio
-raw/ → datos crudos descargados
-input/ → datos limpios y procesados
-output/ → resultados, tablas y gráficos
-auxiliar/ → bases complementarias
-utils/ → funciones auxiliares
-scripts/ → scripts del proyecto
+- raw/ → datos crudos descargados
+- input/ → datos limpios y procesados
+- output/ → resultados, tablas y gráficos
+- auxiliar/ → bases complementarias
+- utils/ → funciones auxiliares
+- scripts/ → scripts del proyecto
 
 # Orden de ejecución de scripts
