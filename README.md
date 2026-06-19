@@ -1,5 +1,5 @@
 # Industria Argentina: ¿crisis o transformacion?
-## Presentacion del proyecto
+## Presentacion del proyecto💡
 
 Este proyecto surge del trabajo de dos estudiantes de la Facultad de Ciencias Económicas, guiados por nuestro profesor de Ciencia de Datos, con el objetivo de analizar la evolución de la industria argentina a lo largo de las últimas décadas.
 
