@@ -1,8 +1,11 @@
 # Industria Argentina: ¿crisis o transformacion?
 ## Presentacion 
 -Integrantes: Abril Russo y Franco Croce
+
 -Materia: Ciencia de Datos para Economía y Negocios
+
 -Profesor: Nicolas Sidicario
+
 -Facultad de Ciencias Económicas - UBA
 
 ## Descripcion del proyecto💡
