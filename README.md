@@ -68,7 +68,7 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 
 ## Estructura del repositorio 📁
 ```bash
-proyecto/
+Industria argentina/
 ├── raw/        # Bases originales descargadas
 ├── auxiliar/   # Bases complementarias
 ├── input/      # Bases limpias y procesadas
