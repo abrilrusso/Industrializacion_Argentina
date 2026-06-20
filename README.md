@@ -24,11 +24,12 @@ En los últimos cincuenta años, Argentina experimentó un proceso de desindustr
 La reducción del peso de la industria en la economía argentina responde principalmente a un proceso de reprimarización. El crecimiento de sectores primarios (favorecidos por cambios en los precios internacionales y la expansión de actividades como el agro y la energía) habría disminuido la participación relativa de la industria en el PBI, sin implicar necesariamente una caída absoluta de la producción industrial.
 
 ## Bases de datos utilizadas 📊
-### Fuentes
+### Fuente principal
 - [Argendata] (https://argendata.fund.ar/topico/industria/) 
 
+### Fuentes auxiliares
 - [Banco Mundial] (https://datos.bancomundial.org/indicador/NV.AGR.TOTL.ZS) 
-
+- [Comision Europea] (https://composite-indicators.jrc.ec.europa.eu/explorer/indices/cipi/competitive-industrial-performance-index)
 ### Período trabajado ⏳
 
 1970–2024
