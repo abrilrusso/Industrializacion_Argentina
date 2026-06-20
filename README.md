@@ -66,6 +66,15 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 - Welch T-test para comparación entre países
 
 ## Estructura del repositorio 📁
-proyecto/ ├── raw/ # Bases originales descargadas ├── auxiliar/ # Bases complementarias ├── input/ # Bases limpias y procesadas ├── output/ # Gráficos, tablas y resultados ├── scripts/ # Scripts del proyecto ├── utils/ # Funciones auxiliares └── README.md
+```bash
+proyecto/
+├── raw/
+├── auxiliar/
+├── input/
+├── output/
+├── scripts/
+├── utils/
+└── README.md
+```
 
 ## Orden de ejecución de scripts
