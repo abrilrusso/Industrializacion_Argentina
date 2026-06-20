@@ -68,13 +68,13 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 ## Estructura del repositorio 📁
 ```bash
 proyecto/
-├── raw/
-├── auxiliar/
-├── input/
-├── output/
-├── scripts/
-├── utils/
-└── README.md
+├── raw/        # Bases originales descargadas
+├── auxiliar/   # Bases complementarias
+├── input/      # Bases limpias y procesadas
+├── output/     # Gráficos, tablas y resultados
+├── scripts/    # Scripts del proyecto
+├── utils/      # Funciones auxiliares
+└── README.md   # Documentación del proyecto
 ```
 
 ## Orden de ejecución de scripts
