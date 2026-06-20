@@ -59,7 +59,7 @@ Luego, comparamos la trayectoria argentina con la de otros países de América L
 
 Por último, aplicamos herramientas de análisis temporal e inferencia estadística para distinguir entre cambios estructurales de largo plazo y fluctuaciones temporales asociadas a shocks económicos.
 
-### Herramientas metodológicas
+### Herramientas metodológicas 🛠️
 - Indexación de series con base 1970 = 100
 - Cálculo de tasas de variación acumulada por subperíodos
 - Descomposición STL
