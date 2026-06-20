@@ -56,7 +56,7 @@ La reducción del peso de la industria en la economía argentina responde princi
 ## Estrategia de análisis 📚
 En una primera etapa, estudiamos la evolución del sector industrial argentino a partir de indicadores como la participación de la industria en el PBI y el PBI industrial per cápita.
 
-Luego, comparamos la trayectoria argentina con la de otros países de América Latina para evaluar si su desempeño responde a una tendencia regional o a una dinámica particular.
+Luego, comparamos la trayectoria argentina con la de otros países de América Latina para evaluar si su desempeño responde a una tendencia regional o  a una dinámica particular.
 
 Por último, aplicamos herramientas de análisis temporal e inferencia estadística para distinguir entre cambios estructurales de largo plazo y fluctuaciones temporales asociadas a shocks económicos.
 
