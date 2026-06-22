@@ -77,15 +77,13 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 Industria argentina/
 ├── raw/        # Bases originales descargadas
 ├── auxiliar/   # Bases complementarias
-├── input/      # Bases limpias y procesadas
 ├── output/     # Gráficos, tablas y resultados
 ├── scripts/    # Scripts del proyecto
-├── utils/      # Funciones auxiliares
 └── README.md   # Documentación del proyecto
 ```
 
 ## Instrucciones de reproducción
-### Paquetes necesarios
+
 
 
 ## Conclusiones
