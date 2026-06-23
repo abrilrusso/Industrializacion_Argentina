@@ -91,7 +91,7 @@ Industria argentina/
 
 
 
-## Conclusiones
+## Conclusiones 📝
 La evidencia respalda la hipótesis principal: Argentina atravesó un proceso de desindustrialización estructural, y no una simple transformación hacia otros sectores. Tres resultados lo confirman:
 
 1. Argentina es el único de los cuatro países que en 2024 produce menos industria por habitante que en 1970 (-17,6%), mientras Brasil, México  y Chile crecieron entre 44% y 86% en el mismo período.
@@ -100,5 +100,5 @@ La evidencia respalda la hipótesis principal: Argentina atravesó un proceso de
 
 3. La hipótesis complementaria de reprimarización se descarta: el sector primario también perdió participación en el PBI (de 9,6% en 1970 a 5,8% en 2024), por lo que el agro no explica el retroceso industrial.
 
-En síntesis, no se trató de una transformación productiva saludable donde la industria cede lugar a otros sectores en crecimiento, sino de una pérdida de capacidad productiva real y sostenida en el tiempo, agravada -pero no causada- por las crisis macroeconómicas del período.
+En síntesis, no se trató de una transformación productiva saludable donde la industria cede lugar a otros sectores en crecimiento, sino de una pérdida de capacidad productiva real y sostenida en el tiempo, agravada (pero no causada) por las crisis macroeconómicas del período.
 
