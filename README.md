@@ -47,9 +47,9 @@ La reducción del peso de la industria en la economía argentina responde princi
 
 -Índice de desempeño industrial competitivo (numérica)
 
-- Año (Serie temporal)
+-Año (Serie temporal)
 
-- Países (categórica)
+-Países (categórica)
 
 ### Paises analizados 🌎
 - Argentina
