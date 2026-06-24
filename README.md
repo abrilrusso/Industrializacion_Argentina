@@ -35,21 +35,17 @@ La reducción del peso de la industria en la economía argentina responde princi
 1970–2024
 
 ### Variables principales
--PBI industrial per cápita (numérica)
+-PBI industrial per cápita
 
--Participación de la industria en el PBI (numérica)
+-Participación de la industria en el PBI 
 
--Participación del sector primario en el PBI (numérica)
+-Participación del sector primario en el PBI 
 
--Participación de manufacturas en exportaciones totales (numérica)
+-Participación de manufacturas en exportaciones totales 
 
--Importaciones y exportaciones industriales (numérica)
+-Importaciones y exportaciones industriales 
 
--Índice de desempeño industrial competitivo (numérica)
-
--Año (Serie temporal)
-
--Países (categórica)
+-Índice de desempeño industrial competitivo
 
 ### Paises analizados 🌎
 - Argentina
