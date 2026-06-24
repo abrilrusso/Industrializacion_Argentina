@@ -84,6 +84,16 @@ Industria argentina/
 ```
 
 ## Instrucciones de reproducción
+1. Descargar o clonar el repositorio
+
+2. Abrir el proyecto en RStudio.
+
+3. Instalar las librerías necesarias:
+install.packages(c("tidyverse", "readxl", "scales", "zoo"))
+
+4. Ejecutar los scripts en el siguiente orden:
+
+5. Los gráficos y resultados se guardaran automáticamente en la carpeta "output".
 
 
 
