@@ -77,6 +77,7 @@ Por último, aplicamos herramientas de análisis temporal e inferencia estadíst
 ```bash
 Industria argentina/
 ├── raw/        # Bases originales descargadas
+├── input/      # Bases limpias y listas
 ├── auxiliar/   # Bases complementarias
 ├── output/     # Gráficos, tablas y resultados
 ├── scripts/    # Scripts del proyecto
