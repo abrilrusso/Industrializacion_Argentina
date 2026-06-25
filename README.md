@@ -92,7 +92,7 @@ Industria argentina/
 2. Abrir el proyecto en RStudio.
 
 3. Instalar las librerías necesarias:
-install.packages(c("tidyverse", "readxl", "scales", "zoo"))
+install.packages(c("tidyverse", "readxl", "scales", "zoo","dlookr","naniar"))
 
 4. Ejecutar los scripts en el siguiente orden:
 
