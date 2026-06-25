@@ -95,12 +95,13 @@ install.packages(c("tidyverse", "readxl", "scales", "zoo"))
 4. Ejecutar los scripts en el siguiente orden:
 
 Exploración y visualización inicial:
--01a_grafico_comunicacional.R (Muestra la evolución de la participación industrial en los países analizados.)
--01b_exploratorio_argentina.R (Compara la evolución del sector industrial y del sector primario de Argentina)
--01g_exploratorio_brasil.R (Compara la evolucion del sector industrial y del sector primario de Brasil)
--01h_exploratorio_mexico.R (Compara la evolucion del sector industrial y del sector primario de México)
--01i_exploratorio_chile.R (Compara la evolucion del sector industrial y del sector primario de Chile)
--01j_dumbbell_pbi_industrial.R (Genera el gráfico comparativo tipo dumbbell sobre participación industrial)
+
+- 01a_grafico_comunicacional.R (Muestra la evolución de la participación industrial en los países analizados.)
+- 01b_exploratorio_argentina.R (Compara la evolución del sector industrial y del sector primario de Argentina)
+- 01g_exploratorio_brasil.R (Compara la evolucion del sector industrial y del sector primario de Brasil)
+- 01h_exploratorio_mexico.R (Compara la evolucion del sector industrial y del sector primario de México)
+- 01i_exploratorio_chile.R (Compara la evolucion del sector industrial y del sector primario de Chile)
+- 01j_dumbbell_pbi_industrial.R (Genera el gráfico comparativo tipo dumbbell sobre participación industrial)
 
 Visualizaciones complementarias:
 
